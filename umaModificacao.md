@@ -33,7 +33,7 @@ nesse arquivo, está todas as instruções de como funciona o seu código ou par
 serve.
 
 **Repositório** = Nada mais é do que um local onde armazenamos todos os arquivos
-de um projeto em que estamos trabalhando.
+de um projeto em que estamos trabalhando. oi
 
 
 
